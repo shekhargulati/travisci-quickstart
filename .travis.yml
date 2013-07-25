@@ -3,8 +3,8 @@ deploy:
   provider: openshift
   user: shekhar.xebia@gmail.com
   password:
-    secure: R1rpH1C9NGno+nrIYwtv0Ck3fWCdTEtdQpVeqW0cOI6FlMun+qJbji0w+JqX1Rg72Geies+c//lOJqe6c5QBsnfaDaegjNGE8pxwLQcdmN7kaFYPrsJGyBwHKnbh410Mlly6tbeJoupwHKMhbaRwUM4pGh5U5Zlcstn/OvV/3/Y=
-  app: travisci-quickstart
+    secure: HNvIOZFGAxpiTCUK4Ba2uKZYsFLzLTWNMztaCZ9kWUvUtmhxQAVPAB9dThVIPXeYV/m7IgQ7026Q0tL5Hs5Xnn4/lyaCQiAljjs7Tg1Tcsb4Nldk72410hteB2AQaZxt/FJmJUBRHDDJDABdC9v6NrhVkQYWYkXXvOQmFiFA7y0=
+  app: travisci
   domain: newideas
   on:
     repo: shekhargulati/travisci-quickstart

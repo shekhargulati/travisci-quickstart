@@ -1,1 +1,10 @@
 script: true
+deploy:
+  provider: openshift
+  user: shekhar.xebia@gmail.com
+  password:
+    secure: R1rpH1C9NGno+nrIYwtv0Ck3fWCdTEtdQpVeqW0cOI6FlMun+qJbji0w+JqX1Rg72Geies+c//lOJqe6c5QBsnfaDaegjNGE8pxwLQcdmN7kaFYPrsJGyBwHKnbh410Mlly6tbeJoupwHKMhbaRwUM4pGh5U5Zlcstn/OvV/3/Y=
+  app: travisci-quickstart
+  domain: newideas
+  on:
+    repo: shekhargulati/travisci-quickstart

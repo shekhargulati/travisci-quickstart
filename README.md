@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/shekhargulati/travisci.png)](https://travis-ci.org/[shekhargulati]/[travisci])
+[![Build Status](https://travis-ci.org/shekhargulati/travisci.png)](https://travis-ci.org/shekhargulati/travisci)
 
 # [Travis CI](http://travis-ci.org) integration with [OpenShift](http://openshift.com)
 This is a sample OpenShift application that illustrates integration
